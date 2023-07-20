@@ -1,0 +1,8 @@
+{
+    "composer_image_version": "composer-2.1.12-airflow-2.4.3",
+    "composer_location": "us-central1",
+    "composer_project_id": "opendota-data-pipeline",
+    "dags_path": "/home/gustavoalmeida/code/opendota-data-pipeline/dags",
+    "dag_dir_list_interval": 10,
+    "port": 8080
+}
